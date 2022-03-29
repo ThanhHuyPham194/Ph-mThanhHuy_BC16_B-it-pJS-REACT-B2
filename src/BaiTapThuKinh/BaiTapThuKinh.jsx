@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import dataGlasses from './dataGlasses.json';
-import './BaiTapThuKinh.css'
 export default class BaiTapThuKinh extends Component {
 
   state= {
